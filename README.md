@@ -11,11 +11,17 @@ Understanding how databases store and retrieve data efficiently using B-Trees.
 
 ![SQL Indexing Diagram](clustered and non.png )
 
-## ⚡ Performance Acid Test
-| Query Type | Execution Time (Before Index) | Execution Time (After Index) |
-|------------|-------------------------------|------------------------------|
-| Search by ID | 450ms | 12ms |
-| Filter by Name | 890ms | 45ms |
+## ⚡ Performance Acid Test (Real-time Results)
+
+Maine Brazilian E-Commerce dataset (Olist) par indexing test ki hai. Search speed mein 100% improvement achieve hui:
+
+| Query Type | Column Name | Time (Before Index) | Time (After Index) |
+|------------|-------------|---------------------|--------------------|
+| Search by ID| `product_id` | 0.031 sec           | 0.000 sec          |
+| Range Scan  | `product_length_cm`| 0.047 sec     | 0.000 sec          |
+
+
+![SQL Performance Proof](./Screenshot%20(496).png)
 
 ---
 *Follow my journey to becoming a Data Engineer!*
