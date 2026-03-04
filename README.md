@@ -9,7 +9,7 @@ Understanding how databases store and retrieve data efficiently using B-Trees.
 - **Clustered Index:** Physically reorders the data in the table. Only one per table (usually the Primary Key).
 - **Non-Clustered Index:** A separate structure (like a book index) that points to the actual data locations.
 
-![SQL Indexing Diagram](./clustered and non.png )
+![SQL Indexing Diagram]( ./clustered and non.png )
 
 ## ⚡ Performance Acid Test (Real-time Results)
 
