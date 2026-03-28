@@ -32,8 +32,7 @@ It contains a small database with `customers`, `product`, `orders`, and `orderde
 7. **Popular product** – Find the most frequently ordered product.
 
 
- ** Show the most popular product (highest total quantity ordered)**
-https://github.com/SaqlainKhan-DataEngineer/SQL-DDL-DML-joins-Practice/blob/aa88f0bf4ce076574ab3b60f89c96deae6d6a5da/Screenshot%20(132).png
+
 
 
 
