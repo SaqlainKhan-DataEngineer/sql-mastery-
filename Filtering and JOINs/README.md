@@ -6,6 +6,10 @@
 - All Join Types
 - Complex Multi-Table Join (4 tables)
 
+- ## 📸 Output Screenshot
+
+![SQL Practice Day 2](./Screenshot%20(793).png)
+
 ## Files
 | File | Description |
 |------|-------------|
